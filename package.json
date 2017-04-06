@@ -1,5 +1,5 @@
 {
-  "name": "gulp-amperize",
+  "name": "gulp-amperify",
   "version": "1.1.0",
   "description": "AMP up your plain HTML in your Gulpfile",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jbhannah/gulp-amperize.git"
+    "url": "https://github.com/ethertyper/gulp-amperize.git"
   },
   "keywords": [
     "amp",
@@ -22,11 +22,11 @@
   "author": "Jesse B. Hannah <jesse@jbhannah.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jbhannah/gulp-amperize/issues"
+    "url": "https://github.com/ethertyper/gulp-amperize/issues"
   },
-  "homepage": "https://github.com/jbhannah/gulp-amperize#readme",
+  "homepage": "https://github.com/ethertyper/gulp-amperize#readme",
   "dependencies": {
-    "amperize": "0.2.0",
+    "amperize": "0.3.4",
     "gulp-util": "3.0.8",
     "through2": "2.0.3"
   },
