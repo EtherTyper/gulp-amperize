@@ -1,6 +1,6 @@
 {
   "name": "gulp-amperify",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "AMP up your plain HTML in your Gulpfile",
   "main": "index.js",
   "scripts": {
